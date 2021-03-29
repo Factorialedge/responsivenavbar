@@ -21,7 +21,7 @@ const onHover=()=>{
             <HeroWrapper>
 
             <HeroH1>YOU READY? LET'S RIDE</HeroH1>
-            <HeroP>Comprehensive write up on anything but i am very sure import PropTypes from 'prop-types'
+            <HeroP>Comprehensive write up on anything but i am very sure it
              will be about cars.</HeroP>
              <HeroBtnWrapper>
     <Button to='signup' onMouseEnter={onHover} onMouseLeave={onHover}>LET'S RIDE{hover ? <ArrowForward/> : <ArrowRight/>}</Button>
